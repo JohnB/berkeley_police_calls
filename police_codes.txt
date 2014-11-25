@@ -1,0 +1,116 @@
+207-Kidnapping 
+211-Robbery 
+215-Carjacking
+220-Attempted Sexual Assault 
+242-Battery 
+243-Battery w/ Bodily Harm
+244-Assault w/ Caustic Fluid 
+245-Assault w/ Weapon 
+246-Shooting into Dwelling
+261-Rape 
+273-Child Abuse 
+288-Sexual Assault
+314-Indecent Exposure 
+330-Gambling 
+415-Disturbance
+459-Burgalry 
+417-Brandishing 
+451-Arson
+484-Theft 
+459A-Auto Burglary 
+470-Forgery
+496-Stolen Property 
+484C-Shoplifting 
+487-Grand Theft
+597-Animal Cruelty 
+537-Defrauding Hotel/Restaurant 
+594-Vandalism
+1053-Person Down 
+601-Runaway 
+1042-Welfare Check
+1057AR-Missing Person at Risk 
+1056-Suicide 
+1057-Missing Person
+1071-Shooting 
+1067-Yelling for Help 
+1070-Prowler
+1124-Abandoned Auto 
+1079-Bomb Threat 
+1080-Explosion
+1181-Injury Collision 
+1148-Transport 
+1180-Major Injury Collision
+1194-Pedestrian Stop 
+1182-Non-injury Collision 
+1183-Unknown Injury Collision
+1199-Officer Needs Help 
+1194B-Bicycle stop 
+1196-Suspicious Vehicle Stop
+5150-Mental Health 
+243E1-Domestic Battery 
+4390-Forged Prescription
+10855-Auto Theft (Rental) 
+10851-Auto Theft 
+10852-Vehicle Vandalism
+21303-Reckless Driving 
+20001-Hit & Run Collision w/Injury 
+20002-Hit & Run Collision
+23152-DUI 
+23109-Exhibition of Speed 
+23110-Throwing Object From Car
+1062B-Civil Standby 
+1033A-Audible Alarm 
+1033S-Silent Alarm
+1091B-Barking Dog 
+1091E-Dog Bite 
+1091V-Vicious Dog
+212 5-Residential Robbery 
+273 5-Spousal Abuse 
+273A-Child Abuse
+300WI-Child Welfare 
+415E-Noise Complaint 
+415F-Domestic Disturbance
+530 5-Identity Theft 
+602L-Trespassing 
+647AB-Prostitution
+647F-Intoxicated Subject 
+647J-Lodging In Public 
+653M-Harassing Phone Calls
+A911-Ascertain 911 Call 
+W911-Wireless 911 Call 
+BMCVIO-Municipal Violation
+BOMB-Bomb Tech Incident 
+BPVIO-Business & Profession Vio 
+CM-City Manager's Report
+CRTVIO-Court Order Violation 
+DBF-Death Investigation 
+DEMO-Demonstration
+EPO-Emergency Protective Order 
+FADEST-Firearms Destruction 
+FLAG-Flag Down
+FNDJUV-Found Juvenile 
+FNDPER-Found Person 
+Foot-Foot Pursuit
+HATE-Hate Crime 
+HOT-Vehicle Pursuit 
+ILLDMP-Illegal Dumping
+LDRPT-Loud Reports 
+LJ-Lo-Jack 
+PCVIO-Penal Code Violation
+PRKVIO-Parking Violation 
+RECOVR-Stolen Auto Recovered 
+REPO-Repossession
+SEC-Security Check 
+SUBP-Subpoena Service 
+SURVE-Surveillance
+SUSCIR-Suspicious Circumstances 
+SUSPER-Suspicious Person 
+SUSVEH-Suspicious Vehicle
+T-Traffic Stop 
+TRFHAZ-Traffic Hazard 
+TROV-Restraining Order Violation
+UNK-Unknown Problem 
+VCVIO-Vehicle Code Violation 
+VREL-Vehicle Release
+VVER-Vin Verification 
+WARARR-Warrant Arrest
