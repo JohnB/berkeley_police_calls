@@ -13,8 +13,8 @@ get '/:yyyymmdd' do
   logger.info "Route to :yyyymmdd of #{params[:yyyymmdd]}."
   # File.read(File.join('index.html'))
   yyyymmdd = params[:yyyymmdd];
-  if yyyymmdd =~ /\d\d\d\d\d\d\d\d.json/
-    filepath = File.join(yyyymmdd)
+  if yyyymmdd =~ /\d\d\d\d\d\d\d\d.geojson/
+    filepath = File.join("files", yyyymmdd)
     logger.info "Directly reading #{filepath}."
     File.read(filepath)
   else

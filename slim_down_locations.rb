@@ -8,7 +8,7 @@ hh = YAML.load_file 'locations9c.yml'
 output = {}
 hh.each do |key, value|
   if value
-    output[key] = {"latitude" => value.latitude, "longitude" => value.longitude, }
+    output[key] = {"latitude" => value.latitude, "longitude" => value.longitude }
   else
     puts "nil value for #{key}"
   end

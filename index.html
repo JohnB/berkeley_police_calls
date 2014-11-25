@@ -15,11 +15,11 @@
         };
         var map = new google.maps.Map(document.getElementById('map-canvas'),
             mapOptions);
-        var marker = new google.maps.Marker({
-          position: [37.8650016, -122.2589461],
-          title:"Hello World!"
-        });
-        var json_file = location.pathname + ".json";
+//        var marker = new google.maps.Marker({
+//          position: [37.8650016, -122.2589461],
+//          title:"Hello World!"
+//        });
+        var json_file = location.pathname + ".geojson";
         console.log("map.data.loadGeoJson( "+ json_file + ")");
         map.data.loadGeoJson(json_file);
 //        map.data.loadGeoJson('/google.json');

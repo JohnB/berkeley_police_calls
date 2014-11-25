@@ -25,16 +25,9 @@ class GeocodeLocations
         newer += 1
         g = Geocoder.search(loc + ", berkeley, CA")
         puts "New: #{loc} "
-        locations[loc] = g.first
-        # if we want to back up the 4MB yaml file, pause at this point
-        puts 3
-        sleep 1
-        puts 2
-        sleep 1
-        puts 1
-        sleep 1
+        value = g.first
+        locations[loc] = {"latitude" => value.latitude, "longitude" => value.longitude}
         File.open('locations.yml', 'w') {|f| YAML.dump(locations, f) }
-        puts 0
       end
     end
     puts "Existing: %d, new: %d, total: %d\n" % [existing, newer, locations.length]
